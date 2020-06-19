@@ -1,5 +1,5 @@
 # MeetAi! Interview Case for Senior App Developers
-You have been invited for an interview with the CTO of MeetAi! and our Lead App Developer. A requirements before the interview is to finish this task over the weekend. Please take your time and do not rush things, this case project is very important in evaluating your proficiency in app development. Please read the **Q&A for both [Figma](https://github.com/thailemeetai/mobile-assignment#figma-qa) and [Coding](https://github.com/thailemeetai/mobile-assignment#coding-qa)** so that you are not lost on what requirements you need.
+You have been invited for an interview with the CTO of MeetAi! and our Lead App Developer. A requirement before the interview is to finish this task over the weekend. Please take your time and do not rush things, this case project is very important in evaluating your proficiency in app development. Please read the **Q&A for both [Figma](https://github.com/thailemeetai/mobile-assignment#figma-qa) and [Coding](https://github.com/thailemeetai/mobile-assignment#coding-qa)** so that you are not lost on what requirements you need.
 
 ## Case Background
 Congratulations! 
