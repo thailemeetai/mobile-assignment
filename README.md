@@ -50,4 +50,5 @@ MeetAi! wants strong problem-solvers with a creative mindset. We are a startup w
 
 Good luck!
 
+## Send your submission to oscar.meetai@gmail.com
 ## **Deadline: 21st of June, Sunday 23:59 - Year 2020**
