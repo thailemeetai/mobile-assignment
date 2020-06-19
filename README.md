@@ -41,9 +41,9 @@ No, the JSON file provided should just be representative of fake API requests fo
 
 ## Evaluation
 Here are some specific evaluation metrics we will use:
-- Coding practice - We don’t want to see messy code. We want to see well-structured and well-commented code such that a new developer joining the project should be able to understand it without any problems.
-- Implementation skills - We want to see how you manage to implement the requirements given by the case. Are some things too hard? Are some things implemented in a really innovative way? There are many ways to impress or disappoint us here.
-- Design choices - Even though we will have designers and other creative people on the team, we really value developers that can identify what looks good and what looks bad. Because in the end, it’s us app developers who are the people finalizing the product.
+- **Coding practice** - We don’t want to see messy code. We want to see well-structured and well-commented code such that a new developer joining the project should be able to understand it without any problems.
+- **Implementation skills** - We want to see how you manage to implement the requirements given by the case. Are some things too hard? Are some things implemented in a really innovative way? There are many ways to impress or disappoint us here.
+- **Design choices** - Even though we will have designers and other creative people on the team, we really value developers that can identify what looks good and what looks bad. Because in the end, it’s us app developers who are the people finalizing the product.
 - There are other things as well that we will check such as performance, future planning and how well you present your thinking during the interview.
 
 MeetAi! wants strong problem-solvers with a creative mindset. We are a startup with a lot of ambition and the people who work with us are hard-working and innovative. Therefore, this task is very open-ended and can be solved in a multitude of ways. As an app developer, you need to know when a design choice is good, redundant or even outright bad. Here in MeetAi! we encourage everyone to come up with their own ideas and to give constant constructive feedback to each other, so feel free to get creative!
