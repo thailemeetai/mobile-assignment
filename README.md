@@ -35,11 +35,11 @@ You can export all the assets as SVG-files individually or in chunks. Please use
 
 We are working in **Flutter** so we would *prefer* if you wrote it in **Dart** to align with our tech stack. However, we will accept outstanding **Swift** and **Kotlin** code as well if that is what you prefer. **React Native** will be somewhat acceptable as well since it shows analogous skills with **Flutter**.
 
-- Do I have any limitations on what dependencies or packages I can use?
+- Do I have any limitations on what **dependencies or packages** I can use?
 
 No, not at all. Do your best work and if you feel that you need to take assets from other places it's perfectly normal.
 
-- Do I have to write any APIs myself?
+- Do I have to write any **APIs** myself?
 
 No, the JSON file provided should just be representative of fake API requests for your code.
 
