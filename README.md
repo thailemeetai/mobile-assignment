@@ -4,10 +4,10 @@ You have been invited for an interview with the CTO of MeetAi! and our Lead App 
 ## Case Background
 Congratulations! 
 
-A Stanford student with a lot of money from university poker nights has hired you on a freelance contract to help him conceptualize his dating app idea. They have paid a designer already to make some assets and his friend from CS107 has made a JSON to set up the data. This student is really lazy however and really does not know what he wants to do for the app other than making it look nice. They now want to pay you some money to take on that responsibility and make it “look good”. Since you are the expert, he is willing to let you make changes if you see any problems or have any creative ideas yourself. He has given you this task for the weekend and expects it in his mailbox at latest on the **21st of June, Sunday 23:59.**
+A Stanford student with a lot of money from university poker nights has hired you on a freelance contract to help him conceptualize his dating app idea. They have paid a designer already to make some assets and his friend from CS107 has made a database JSON to set up the data. This student is really lazy however and really does not know what he wants to do for the app other than making it look nice. They now want to pay you some money to take on that responsibility and make it “look good”. Since you are the expert, he is willing to let you make changes if you see any problems or have any creative ideas yourself. He has given you this task for the weekend and expects it in his mailbox at latest on the **21st of June, Sunday 23:59.**
 
 ## Task details
-You are provided a link to a Figma and this github repository. Please implement the UI and as much as you can from the JSON. If there’s missing data or too much data, YOU should decide on what should be added and what should not. For the missing UI assets, you may use the internet to find anything that can replace the design. You may also skip it entirely if you feel that it is unnecessary.
+You are provided a link to a Figma and this github repository. Please implement the UI and as much as you can from the JSON. To use the JSON, please specifically call the API from this github repository url "https://github.com/thailemeetai/mobile-assignment". We want to know how you would call an API in a company setting with servers and cloud databases. If there’s missing data or too much data, YOU should decide on what should be added and what should not. For the missing UI assets, you may use the internet to find anything that can replace the design. You may also skip it entirely if you feel that it is unnecessary.
 
 Figma link: https://www.figma.com/file/bnkkOpgTVfdp3mHaTVv4za/MeetAI-Dev-Task?node-id=0%3A1
 
@@ -41,7 +41,11 @@ No, not at all. Do your best work and if you feel that you need to take assets f
 
 - Do I have to write any **APIs** myself?
 
-No, the JSON file provided should just be representative of fake API requests for your code.
+No, the JSON file provided should just be representative of **fake API requests** for your code. 
+
+- Can I use the **JSON file locally**?
+
+No, we want you to use an API call to this github repository such that it is representative of a real app with servers and a cloud database.
 
 ## Evaluation
 Here are some specific evaluation metrics we will use:
