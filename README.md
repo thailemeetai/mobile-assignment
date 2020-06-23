@@ -45,7 +45,7 @@ No, the JSON file provided should just be representative of **fake API requests*
 
 - Can I use the **JSON file locally**?
 
-No, we want you to use an API call to this github repository such that it is representative of a real app with servers and a cloud database.
+No, we want you to use an API call to this [github repository](https://my-json-server.typicode.com/thailemeetai/mobile-assignment/db) such that it is representative of a real app with servers and a cloud database.
 
 ## Evaluation
 Here are some specific evaluation metrics we will use:
