@@ -1,10 +1,10 @@
-# MeetAi! Interview Case for Senior App Developers
-You have been invited for an interview with the CTO of MeetAi! and our Lead App Developer. A requirement before the interview is to finish this task over the weekend. Please take your time and do not rush things, this case project is very important in evaluating your proficiency in app development. Please read the **Q&A for both [Figma](https://github.com/thailemeetai/mobile-assignment#figma-qa) and [Coding](https://github.com/thailemeetai/mobile-assignment#coding-qa)** so that you are not lost on what requirements you need.
+# Fika Interview Case for Senior App Developers
+You have been invited for an interview with the CTO of Fika and our Lead App Developer. A requirement before the interview is to finish this task over the weekend. Please take your time and do not rush things, this case project is very important in evaluating your proficiency in app development. Please read the **Q&A for both [Figma](https://github.com/thailemeetai/mobile-assignment#figma-qa) and [Coding](https://github.com/thailemeetai/mobile-assignment#coding-qa)** so that you are not lost on what requirements you need.
 
 ## Case Background
 Congratulations! 
 
-A Stanford student with a lot of money from university poker nights has hired you on a freelance contract to help him conceptualize his dating app idea. They have paid a designer already to make some assets and his friend from CS107 has made a database JSON to set up the data. Unfortunately for you, you are **not allowed** to download this JSON file locally and thus must use **API requests** instead. This student is also really lazy however and really does not know what he wants to do for the app other than making it look nice. They now want to pay you some money to take on that responsibility and make it “look good”. Since you are the expert, he is willing to let you make changes if you see any problems or have any creative ideas yourself. He has given you this task for the weekend and expects it in his mailbox at latest on the **11th of July, Saturday 23:59.**
+A Stanford student with a lot of money from university poker nights has hired you on a freelance contract to help him conceptualize his dating app idea. They have paid a designer already to make some assets and his friend from CS107 has made a database JSON to set up the data. Unfortunately for you, you are **not allowed** to download this JSON file locally and thus must use **API requests** instead. This student is also really lazy however and really does not know what he wants to do for the app other than making it look nice. They now want to pay you some money to take on that responsibility and make it “look good”. Since you are the expert, he is willing to let you make changes if you see any problems or have any creative ideas yourself. He has given you this task for the weekend and expects it in his mailbox at latest on the **2nd of August, Sunday at 3PM**
 
 ## Task details
 You are provided a link to a Figma and this github repository. Please implement the UI and as much as you can from the JSON. To use the JSON, please specifically call the API from this **[URL](https://my-json-server.typicode.com/thailemeetai/mobile-assignment/db)**. We want to know how you would call an API in a company setting with servers and cloud databases. If there’s missing data or too much data, YOU should decide on what should be added and what should not. For the missing UI assets, you may use the internet to find anything that can replace the design. You may also skip it entirely if you feel that it is unnecessary.
@@ -45,7 +45,7 @@ No, the JSON file provided should just be representative of **fake API requests*
 
 - Can I use the **JSON file locally**?
 
-No, we want you to use an API call to this [github repository](https://my-json-server.typicode.com/thailemeetai/mobile-assignment/db) such that it is representative of a real app with servers and a cloud database.
+No, we want you to use an API call to this [json link](https://my-json-server.typicode.com/thailemeetai/mobile-assignment/db) such that it is representative of a real app with servers and a cloud database.
 
 ## Evaluation
 Here are some specific evaluation metrics we will use:
@@ -54,9 +54,15 @@ Here are some specific evaluation metrics we will use:
 - **Design choices** - Even though we will have designers and other creative people on the team, we really value developers that can identify what looks good and what looks bad. Because in the end, it’s us app developers who are the people finalizing the product.
 - There are other things as well that we will check such as performance, future planning and how well you present your thinking during the interview.
 
-MeetAi! wants strong problem-solvers with a creative mindset. We are a startup with a lot of ambition and the people who work with us are hard-working and innovative. Therefore, this task is very open-ended and can be solved in a multitude of ways. As an app developer, you need to know when a design choice is good, redundant or even outright bad. Here in MeetAi! we encourage everyone to come up with their own ideas and to give constant constructive feedback to each other, so feel free to get creative!
+Fika wants strong problem-solvers with a creative mindset. We are a startup with a lot of ambition and the people who work with us are hard-working and innovative. Therefore, this task is very open-ended and can be solved in a multitude of ways. As an app developer, you need to know when a design choice is good, redundant or even outright bad. Here in fika we encourage everyone to come up with their own ideas and to give constant constructive feedback to each other, so feel free to get creative!
 
 Good luck!
 
-## Send your submission to oscar.meetai@gmail.com
-## **Deadline: 11th of July, Sunday 23:59 - Year 2020**
+## Send your submission to info@keepfika.com
+## **Deadline: 2nd of August, Sunday at 3PM - Year 2020**
+
+fika
+
+[fee-ka]. Swedish
+
+*a moment to slow down and appreciate the good things in life.*
