@@ -66,3 +66,5 @@ fika
 [fee-ka]. Swedish
 
 *a moment to slow down and appreciate the good things in life.*
+
+Keep dating. Keep loving. Keep fika.
